@@ -20,4 +20,11 @@ To compare the changes in major crime categories from 1997 to 2016, pivot tables
 ### Finding 1: Both crime types shows decline
 Chart 1 shows a downward trend in both violent and property crime rates between 1997 and 2016. Property crime rate decreased from around four thousands to two thousands, while violent crime decreased from around six hundred to 4 hundred. This suggested that crime has became less common overall from 1997 to 2016.
 ### Finding 2: Property crime dropped more than violent crime
-Although both types decreased, property crime delined larger. 
+Although both types decreased, property crime delined larger. This might show that law enforcement strategies and other social changes were improved. 
+### Finding 3: Motor vehicle theft decreased the most
+In the five categories analyzed, motor vehicle theft delined the most, by 50%. On the contrast, murder showed the smallest decline, by 20%.
+## Summary
+This analysis shows that crime rates in the US declined from 1997 to 2016. Both violent crime and property crime rates dropped, with property crime rate declining more. Among all selected crime categories, motor vehicle theft decreased the most, and burglary is the second. In the mean time, murder shows the smallest decline.
+However, this dataset also have some limitations. First, FBI data collection didn't include the crimes that went unreported, so the data may not fully reflect the actual crime levels. Second, there are data type that cannot be analyzed, such as rape rates. This is because of the change in definition. Thus, the analyze cannot show the whole picture of the crime in the US. Lastly, this dataset only showed national-level trends, without caputreing the differences between states and regions.
+The ethical issue about of this data also exsits. Since these data are reported other than the final results, there might be stereotypes in the reporting process. Journalists should be alert while dealing with the data.
+In order to make a more complete story, more research is needed. For example, regional analysis, and factors effecting the data should also be considered. 

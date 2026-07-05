@@ -1,4 +1,4 @@
-# How have crime trends in the US changed from 1997 to 2016?
+# How did crime trends in the US changed from 1997 to 2016?
 Crime is often at the focus of media and public's attention. Headlines about crime can give the impression that the number is always rising. However, do long-term data support this thought?
 This article uses FBI crime data in the US  between 1997 and 2016 to examine the trend of crime over time. This analysis on violent crime and property crime aims to understand which catagories of crime rises or remain stable.
 ## Background
@@ -28,3 +28,4 @@ This analysis shows that crime rates in the US declined from 1997 to 2016. Both 
 However, this dataset also have some limitations. First, FBI data collection didn't include the crimes that went unreported, so the data may not fully reflect the actual crime levels. Second, there are data type that cannot be analyzed, such as rape rates. This is because of the change in definition. Thus, the analyze cannot show the whole picture of the crime in the US. Lastly, this dataset only showed national-level trends, without caputreing the differences between states and regions.
 The ethical issue about of this data also exsits. Since these data are reported other than the final results, there might be stereotypes in the reporting process. Journalists should be alert while dealing with the data.
 In order to make a more complete story, more research is needed. For example, regional analysis, and factors effecting the data should also be considered. 
+[Link to the Google Sheet with the data](https://docs.google.com/spreadsheets/d/1p1LOzncsEDcrmtjAco4czS9itkzs2zMK2s4w-klj4b0/edit?usp=sharing)

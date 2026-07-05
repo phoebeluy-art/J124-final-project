@@ -15,5 +15,5 @@ To compare the changes in major crime categories from 1997 to 2016, pivot tables
 **Chart 1** is a line chart showing the rates of violent crime and property crime. It shows the overall decline in crime.
 **Chart 2** is a bar char showing the change in percentage of five specific crime categories: murder, robbery, assault, burglary, and motor vehicle theft. To compare the percentage of change, a summary table was made using the formula *(rate 2016 - rate 1997) / rate 1997*.
 ## Findings
-![alt text](PercentageChangeinSpecificCrimeCategories.jpg)
-![alt text](ViolentandPropertyCrimeRateshaveDeclinedSince1997.jpg)
+![Chart 1](PercentageChangeinSpecificCrimeCategories.jpg)
+![Chart 2](ViolentandPropertyCrimeRateshaveDeclinedSince1997.jpg)
